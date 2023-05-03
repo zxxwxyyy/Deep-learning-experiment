@@ -1,3 +1,5 @@
-# Deep-learning-playground
+# Deep-learning-specialization-coursera
 
-You may find a series of explorations where I delve into deep-learning here. From successes to failures, I have delved into the intricacies of these models and documented my findings.
+This repo contains notebooks from coursera's Deep Learning Specialization by Andrew Ng. 
+
+Link to the course: https://www.coursera.org/specializations/deep-learning
